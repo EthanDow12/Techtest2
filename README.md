@@ -21,7 +21,7 @@
 var s = "JavaScript syntax highlighting";
 alert(s);
 ```
-| Xbox           | PS4         | PC         |
+| Xbox           | PS4         | PC         | 
 | ------------   | :---------: | --------:  |
 | 30 fps         | 30fps       | 100-200+Fps|
 
