@@ -15,4 +15,7 @@
 1.
 2. 
 3. 
-'''Ethan 
+```javascript
+var s = "JavaScript syntax highlighting";
+alert(s);
+```
