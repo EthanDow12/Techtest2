@@ -41,8 +41,10 @@ else
 
 <dl>
   <dt>Definition llist</dt>
-  <dd> is something people use sometimes. </dd>
+  <dd>  very nice. </dd>
   
   <dt> Markdown in HTML</dd>
   <dd> Does *not* work **very** well. Use HTML <em>tags</em.</dd>
   </dl>  
+
+> PC race is superior
