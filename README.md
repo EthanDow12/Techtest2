@@ -39,4 +39,10 @@ ___
 
 else
 
-
+<dl>
+  <dt>Definition llist</dt>
+  <dd> is something people use sometimes. </dd>
+  
+  <dt> Markdown in HTML</dd>
+  <dd> Does *not* work **very** well. Use HTML <em>tags</em.</dd>
+  </dl>  
